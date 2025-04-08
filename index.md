@@ -9,3 +9,9 @@ Learning about markdown.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### List
+
+- [x] First task
+- [x] Second task
+- [ ] Third task
